@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { useLanguage } from '@/context/LanguageContext'
 import SectionAnimation from './SectionAnimation'
 
-const dishes = ['dish1', 'dish2', 'dish3'] as const
+const dishes = ['dish-1', 'dish-2', 'dish-3'] as const
 
 export default function SignatureDishes() {
   const { t } = useLanguage()
