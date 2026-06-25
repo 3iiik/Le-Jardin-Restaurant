@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Home",
+    "story": "Our Story",
+    "chef": "The Chef",
+    "menu": "Menu",
+    "gallery": "Gallery",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "reservation": "Reservation"
+  },
+  "hero": {
+    "title": "Le Jardin",
+    "subtitle": "Restaurant",
+    "tagline": "An exceptional Mediterranean dining experience",
+    "cta_primary": "Book a Table",
+    "cta_secondary": "Discover the Menu"
+  },
+  "story": {
+    "title": "Our Story",
+    "subtitle": "The art of Mediterranean cuisine since 1985",
+    "paragraph1": "Nestled in the heart of Algiers, Le Jardin Restaurant is more than just a dining establishment. It is an invitation to travel, a celebration of Mediterranean flavors that have shaped our childhood and inspired our cuisine.",
+    "paragraph2": "Founded by the Benali family, our establishment carries on a culinary tradition passed down through generations. Each dish tells a story — of our land, our local producers, and our unwavering passion for the art of fine dining.",
+    "paragraph3": "In a setting where modernity meets tradition, we invite you to experience a unique sensory journey, where every bite is a voyage through the Mediterranean."
+  },
+  "chef": {
+    "title": "Our Chef",
+    "subtitle": "A passion, a vision, a signature",
+    "name": "Chef Karim Benali",
+    "bio": "Trained alongside the greatest Mediterranean chefs, Karim Benali has traveled across the Mediterranean basin in search of authentic flavors. From Marseille to Beirut, through Barcelona and Tangier, he has captured the essence of each culinary culture to create a unique signature that has made Le Jardin famous.",
+    "experience": "40 years of experience",
+    "awards": "2 Michelin Stars",
+    "philosophy": "\"Cooking is the art of transforming simple ingredients into extraordinary moments.\""
+  },
+  "dishes": {
+    "title": "Signature Dishes",
+    "subtitle": "The chef's emblematic creations",
+    "dish1_name": "Lamb Tagine with Apricots",
+    "dish1_desc": "Slow-cooked lamb with tender apricots, slivered almonds and a blend of Eastern spices",
+    "dish2_name": "Royal Bouillabaisse",
+    "dish2_desc": "Traditional seafood fish soup with saffron and homemade rouille",
+    "dish3_name": "Grilled Lobster with Citrus Butter",
+    "dish3_desc": "Breton lobster grilled with candied citrus butter and seasonal vegetables"
+  },
+  "menu": {
+    "title": "Our Menu",
+    "subtitle": "A gastronomic journey through the Mediterranean",
+    "appetizers": "Appetizers",
+    "mains": "Main Courses",
+    "desserts": "Desserts",
+    "drinks": "Drinks",
+    "app1_name": "Mediterranean Bruschetta",
+    "app1_desc": "Grilled bread with olive oil, sun-dried tomatoes, fresh basil and creamy burrata",
+    "app1_price": "$16",
+    "app2_name": "Scallop Carpaccio",
+    "app2_desc": "Thinly sliced scallops marinated in lime, sea salt and caviar",
+    "app2_price": "$20",
+    "app3_name": "Truffled Hummus",
+    "app3_desc": "Chickpea cream with black truffle, extra virgin olive oil and crispy pita bread",
+    "app3_price": "$14",
+    "main1_name": "Provencal Sea Bass Fillet",
+    "main1_desc": "Roasted sea bass fillet, sun vegetables, Kalamata olives and pistou",
+    "main1_price": "$36",
+    "main2_name": "Royal Couscous",
+    "main2_desc": "Fine semolina, braised lamb, roasted chicken, merguez sausages, vegetables and fragrant broth",
+    "main2_price": "$32",
+    "main3_name": "Wild Mushroom Risotto",
+    "main3_desc": "Creamy risotto with porcini and chanterelle mushrooms, aged parmesan and shaved truffle",
+    "main3_price": "$30",
+    "dessert1_name": "Pistachio-Raspberry Tiramisu",
+    "dessert1_desc": "Revisited tiramisu with Sicilian pistachio, fresh raspberries and meringue shards",
+    "dessert1_price": "$14",
+    "dessert2_name": "Walnut and Honey Baklava",
+    "dessert2_desc": "Crispy phyllo dough, caramelized walnuts, orange blossom honey and orange flower ice cream",
+    "dessert2_price": "$12",
+    "drink1_name": "Mint Tea",
+    "drink1_desc": "Premium green tea, fresh mint and cane sugar",
+    "drink1_price": "$7",
+    "drink2_name": "Homemade Lemonade",
+    "drink2_desc": "Fresh lemon, elderflower syrup and sparkling water",
+    "drink2_price": "$6"
+  },
+  "reservation": {
+    "title": "Book Your Table",
+    "subtitle": "Experience an unforgettable culinary journey",
+    "description": "Whether for a romantic dinner, a business lunch or a family celebration, our team will be delighted to welcome you and offer you an exceptional moment.",
+    "cta": "Book Now",
+    "phone": "+213 555 12 34 56",
+    "hours": "Tuesday to Sunday, 12:00 PM - 10:30 PM"
+  },
+  "gallery": {
+    "title": "Our Gallery",
+    "subtitle": "A glimpse into our world"
+  },
+  "testimonials": {
+    "title": "What Our Guests Say",
+    "subtitle": "Their experience speaks for itself",
+    "test1_name": "Sophie Laurent",
+    "test1_text": "An exceptional culinary experience! The setting is beautiful, the service impeccable, and every dish is a work of art. The Lamb Tagine is simply divine.",
+    "test2_name": "Marc Dubois",
+    "test2_text": "Le Jardin is without doubt the best Mediterranean restaurant in Algiers. The Royal Bouillabaisse transported me straight to the Marseille coast.",
+    "test3_name": "Leila Benali",
+    "test3_text": "The atmosphere is warm and elegant. The staff is attentive and knows the menu perfectly. A true culinary gem."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here for you",
+    "address": "12 Rue des Jardins, Algiers Center, 16000 Algiers, Algeria",
+    "email": "3iikStudio@proton.me",
+    "messenger": "Message via Messenger",
+    "facebook": "Follow us on Facebook",
+    "form_name": "Your name",
+    "form_email": "Your email",
+    "form_message": "Your message",
+    "form_submit": "Send"
+  },
+  "footer": {
+    "rights": "© 2026 Le Jardin Restaurant. All rights reserved.",
+    "tagline": "Mediterranean excellence since 1985"
+  }
+}
