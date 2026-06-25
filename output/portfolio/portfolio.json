@@ -1,0 +1,38 @@
+{
+  "name": "Le Jardin Restaurant",
+  "industry": "restaurant",
+  "description": "Luxury French cuisine in the heart of the city",
+  "website": "https://le-jardin-restaurant.vercel.app",
+  "github": null,
+  "technologies": [
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ],
+  "framework": "nextjs",
+  "hasTypeScript": true,
+  "hasTailwind": true,
+  "branding": {
+    "primary": "#C8A15D",
+    "secondary": "#1F2937"
+  },
+  "assets": {
+    "og": "output/og/og-image.png",
+    "thumbnail": "output/portfolio/thumbnail.png",
+    "hero": "output/portfolio/hero.png",
+    "screenshots": [
+      "screenshots/desktop-website-light.png",
+      "screenshots/tablet-website-light.png",
+      "screenshots/mobile-website-light.png"
+    ],
+    "instagram": [
+      "instagram/slide-1.png",
+      "instagram/slide-2.png",
+      "instagram/slide-3.png"
+    ],
+    "facebook": "output/facebook/post.png",
+    "linkedin": "output/linkedin/banner.png",
+    "twitter": "output/twitter/cover.png"
+  },
+  "generated": "2026-06-25T23:56:03.070Z"
+}

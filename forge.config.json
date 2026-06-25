@@ -1,0 +1,17 @@
+{
+  "name": "Le Jardin Restaurant",
+  "industry": "restaurant",
+  "description": "Luxury French cuisine in the heart of the city",
+  "website": "https://le-jardin-restaurant.vercel.app",
+  "branding": {
+    "primary": "#C8A15D",
+    "secondary": "#1F2937"
+  },
+  "social": {
+    "facebook": true,
+    "instagram": true,
+    "linkedin": true,
+    "twitter": true
+  },
+  "portfolio": true
+}
