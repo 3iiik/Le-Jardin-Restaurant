@@ -4,7 +4,8 @@ import Image from 'next/image'
 import { useLanguage } from '@/context/LanguageContext'
 import SectionAnimation from './SectionAnimation'
 
-const dishes = ['dish-1', 'dish-2', 'dish-3'] as const
+const dishes = ['dish1', 'dish2', 'dish3'] as const
+const dishImages = ['/images/dish-1.jpg', '/images/dish-2.jpg', '/images/dish-3.jpg']
 
 export default function SignatureDishes() {
   const { t } = useLanguage()
@@ -27,7 +28,7 @@ export default function SignatureDishes() {
               <div className="group bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-all duration-300 hover:-translate-y-2">
                 <div className="relative h-64 overflow-hidden">
                   <Image
-                    src={`/images/${dish}.jpg`}
+                    src={dishImages[index]}
                     alt={t(`dishes.${dish}_name`)}
                     fill
                     className="object-cover group-hover:scale-110 transition-transform duration-500"
