@@ -1,17 +1,10 @@
 'use client'
 
-import { createContext, useContext, useState, useEffect, useCallback, ReactNode } from 'react'
+import { createContext, useContext, useState, useCallback, ReactNode } from 'react'
 import fr from '@/messages/fr.json'
 import en from '@/messages/en.json'
 
 const messages = { fr, en } as const
-
-type Messages = typeof fr
-type NestedKeyOf<T, K extends keyof T = keyof T> = K extends string
-  ? T[K] extends Record<string, unknown>
-    ? `${K}.${NestedKeyOf<T[K]>}`
-    : K
-  : never
 
 type Locale = 'fr' | 'en'
 
@@ -35,14 +28,11 @@ function getNestedValue(obj: Record<string, unknown>, path: string): string {
 const LanguageContext = createContext<LanguageContextType | undefined>(undefined)
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [locale, setLocaleState] = useState<Locale>('fr')
-
-  useEffect(() => {
+  const [locale, setLocaleState] = useState<Locale>(() => {
+    if (typeof window === 'undefined') return 'fr'
     const stored = localStorage.getItem('lang') as Locale | null
-    if (stored === 'fr' || stored === 'en') {
-      setLocaleState(stored)
-    }
-  }, [])
+    return stored === 'fr' || stored === 'en' ? stored : 'fr'
+  })
 
   const setLocale = useCallback((newLocale: Locale) => {
     setLocaleState(newLocale)

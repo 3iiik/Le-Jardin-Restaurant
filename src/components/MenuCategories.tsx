@@ -45,7 +45,7 @@ export default function MenuCategories() {
         </div>
 
         <div className="mt-12 max-w-3xl mx-auto">
-          {itemsPerCategory[activeCategory]?.map((item, index) => (
+          {itemsPerCategory[activeCategory]?.map((item) => (
             <SectionAnimation key={item}>
               <div className="flex items-start justify-between py-5 border-b border-primary/10 last:border-0">
                 <div className="pr-4">
