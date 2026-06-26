@@ -24,13 +24,13 @@
     "paragraph3": "Chaque plat du Jardin raconte une histoire — une histoire de côtes ensoleillées, de souks animés, de réunions de famille et de la joie simple de partager un beau repas avec ses proches."
   },
   "chef": {
-    "title": "Le Chef",
-    "subtitle": "Un artiste culinaire",
-    "name": "Chef Antoine Moreau",
-    "bio": "Avec plus de 20 ans d'expérience dans des restaurants étoilés Michelin à travers l'Europe et la Méditerranée, le Chef Antoine apporte une richesse de connaissances et de créativité à chaque assiette. Sa philosophie est simple : laisser les ingrédients parler d'eux-mêmes.",
-    "experience": "Le Chef Antoine a été formé auprès des plus grands maîtres culinaires de Paris, Barcelone et Istanbul avant de retourner à Alger pour ouvrir Le Jardin. Sa carrière s'étend sur plus de deux décennies d'excellence dans les cuisines étoilées du bassin méditerranéen.",
-    "awards": "Récompensé par le prestigieux Golden Spoon Award de la meilleure cuisine méditerranéenne (2023), Chef de l'année par l'Institut Culinaire d'Alger (2022), et une Étoile Michelin pour son précédent restaurant à Marseille.",
-    "philosophy": "Chaque ingrédient raconte une histoire. Le Chef Antoine croit en laisser les saveurs naturelles s'exprimer, en utilisant des techniques traditionnelles transmises de génération en génération tout en adoptant l'innovation moderne pour créer des plats qui surprennent et ravissent."
+    "title": "Notre Chef",
+    "subtitle": "Une passion, une vision, une signature",
+    "name": "Chef Karim Benali",
+    "bio": "Formé aux côtés des plus grands chefs méditerranéens, Karim Benali a parcouru le bassin méditerranéen à la recherche des saveurs authentiques. De Marseille à Beyrouth, en passant par Barcelone et Tanger, il a su capter l'essence de chaque culture culinaire pour créer une signature unique qui fait la renommée du Jardin.",
+    "experience": "40 ans d'expérience",
+    "awards": "2 Étoiles Michelin",
+    "philosophy": "« La cuisine est l'art de transformer des ingrédients simples en moments extraordinaires. »"
   },
   "dishes": {
     "title": "Plats Signatures",

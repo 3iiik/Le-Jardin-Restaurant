@@ -24,13 +24,13 @@
     "paragraph3": "Every dish at Le Jardin tells a story — a story of sun-drenched coastlines, bustling souks, family gatherings, and the simple joy of sharing a beautiful meal with loved ones. Our menu changes with the seasons, ensuring that every visit offers something new and exciting."
   },
   "chef": {
-    "title": "The Chef",
-    "subtitle": "A culinary artist",
-    "name": "Chef Antoine Moreau",
-    "bio": "With over 20 years of experience in Michelin-starred restaurants across Europe and the Mediterranean, Chef Antoine brings a wealth of knowledge and creativity to every plate. His philosophy is simple: let the ingredients speak for themselves. By sourcing the finest local and imported produce, he creates dishes that are both rooted in tradition and refreshingly innovative.",
-    "experience": "Chef Antoine trained under some of the greatest culinary masters in Paris, Barcelona, and Istanbul before returning to Algiers to open Le Jardin. His career spans over two decades of excellence in Michelin-starred kitchens across the Mediterranean.",
-    "awards": "Recognized with the prestigious Golden Spoon Award for Best Mediterranean Cuisine (2023), Chef of the Year by Algiers Culinary Institute (2022), and a Michelin Star for his previous restaurant in Marseille.",
-    "philosophy": "Every ingredient tells a story. Chef Antoine believes in letting the natural flavors shine, using traditional techniques passed down through generations while embracing modern innovation to create dishes that surprise and delight."
+    "title": "Our Chef",
+    "subtitle": "A passion, a vision, a signature",
+    "name": "Chef Karim Benali",
+    "bio": "Trained alongside the greatest Mediterranean chefs, Karim Benali has traveled across the Mediterranean basin in search of authentic flavors. From Marseille to Beirut, through Barcelona and Tangier, he has captured the essence of each culinary culture to create a unique signature that has made Le Jardin famous.",
+    "experience": "40 years of experience",
+    "awards": "2 Michelin Stars",
+    "philosophy": "\"Cooking is the art of transforming simple ingredients into extraordinary moments.\""
   },
   "dishes": {
     "title": "Signature Dishes",
