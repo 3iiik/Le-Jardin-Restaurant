@@ -10,82 +10,76 @@
     "reservation": "Réservation"
   },
   "hero": {
-    "title": "Le Jardin",
-    "subtitle": "Restaurant",
-    "tagline": "Une expérience culinaire méditerranéenne d'exception",
-    "cta_primary": "Réserver une table",
-    "cta_secondary": "Découvrir le menu"
+    "title": "Où les Saveurs Méditerranéennes",
+    "titleAccent": "Rencontrent l'Élégance",
+    "subtitle": "Découvrez une expérience culinaire exceptionnelle au cœur d'Alger, où la tradition rencontre la modernité dans chaque plat.",
+    "cta": "Réserver une Table",
+    "ctaSecondary": "Découvrir le Menu"
   },
   "story": {
     "title": "Notre Histoire",
-    "subtitle": "L'art de la cuisine méditerranéenne depuis 1985",
-    "paragraph1": "Niché au cœur d'Alger, Le Jardin Restaurant est bien plus qu'un lieu de restauration. C'est une invitation au voyage, une célébration des saveurs méditerranéennes qui ont bercé notre enfance et inspiré notre cuisine.",
-    "paragraph2": "Fondé par la famille Benali, notre établissement perpétue une tradition culinaire transmise de génération en génération. Chaque plat raconte une histoire, celle de notre terroir, de nos producteurs locaux, et de notre passion inébranlable pour l'art de la table.",
-    "paragraph3": "Dans un cadre où le modernisme rencontre la tradition, nous vous invitons à vivre une expérience sensorielle unique, où chaque bouchée est un voyage au cœur de la Méditerranée."
+    "subtitle": "Une passion pour la cuisine méditerranéenne",
+    "paragraph1": "Le Jardin est né d'un amour simple mais profond pour la cuisine méditerranéenne. Fondé par le Chef Antoine Moreau, un artiste culinaire de troisième génération originaire de Marseille avec des racines algériennes, notre restaurant est l'aboutissement d'un voyage à travers les saveurs du bassin méditerranéen.",
+    "paragraph2": "Après avoir été formé dans certaines des cuisines les plus prestigieuses de Paris, Barcelone et Istanbul, le Chef Antoine est retourné dans sa terre ancestrale pour créer une expérience gastronomique qui rend hommage aux riches traditions culinaires de la région tout en adoptant des techniques et une présentation modernes.",
+    "paragraph3": "Chaque plat du Jardin raconte une histoire — une histoire de côtes ensoleillées, de souks animés, de réunions de famille et de la joie simple de partager un beau repas avec ses proches."
   },
   "chef": {
-    "title": "Notre Chef",
-    "subtitle": "Une passion, une vision, une signature",
-    "name": "Chef Karim Benali",
-    "bio": "Formé aux côtés des plus grands chefs méditerranéens, Karim Benali a parcouru le bassin méditerranéen à la recherche des saveurs authentiques. De Marseille à Beyrouth, en passant par Barcelone et Tanger, il a su capter l'essence de chaque culture culinaire pour créer une signature unique qui fait la renommée du Jardin.",
-    "experience": "40 ans d'expérience",
-    "awards": "2 Étoiles Michelin",
-    "philosophy": "« La cuisine est l'art de transformer des ingrédients simples en moments extraordinaires. »"
-  },
-  "dishes": {
-    "title": "Plats Signatures",
-    "subtitle": "Les créations emblématiques de notre chef",
-    "dish1_name": "Tajine d'Agneau aux Abricots",
-    "dish1_desc": "Agneau confit lentement avec des abricots moelleux, amandes effilées et un mélange d'épices orientales",
-    "dish2_name": "Bouillabaisse Royale",
-    "dish2_desc": "Soupe de poisson traditionnelle aux fruits de mer, safran et rouille maison",
-    "dish3_name": "Homard Grillé au Beurre d'Agrumes",
-    "dish3_desc": "Homard breton grillé, beurre d'agrumes confits et légumes de saison"
+    "title": "Le Chef",
+    "subtitle": "Un artiste culinaire",
+    "name": "Chef Antoine Moreau",
+    "description": "Avec plus de 20 ans d'expérience dans des restaurants étoilés Michelin à travers l'Europe et la Méditerranée, le Chef Antoine apporte une richesse de connaissances et de créativité à chaque assiette. Sa philosophie est simple : laisser les ingrédients parler d'eux-mêmes.",
+    "signature": "Plats Signatures",
+    "dish1": "Tajine d'Agneau aux Abricots",
+    "dish2": "Bouillabaisse Royale",
+    "dish3": "Fondant au Chocolat à la Fleur de Sel"
   },
   "menu": {
-    "title": "Notre Carte",
-    "subtitle": "Un voyage gastronomique à travers la Méditerranée",
-    "appetizers": "Entrées",
-    "mains": "Plats Principaux",
-    "desserts": "Desserts",
-    "drinks": "Boissons",
-    "app1_name": "Bruschetta Méditerranéenne",
-    "app1_desc": "Pain grillé à l'huile d'olive, tomates confites, basilic frais et burrata crémeuse",
-    "app1_price": "14 €",
-    "app2_name": "Carpaccio de Saint-Jacques",
-    "app2_desc": "Fines tranches de saint-jacques marinées au citron vert, fleur de sel et caviar",
-    "app2_price": "18 €",
-    "app3_name": "Houmous Truffé",
-    "app3_desc": "Crème de pois chiches à la truffe noire, huile d'olive vierge et pain pita croustillant",
-    "app3_price": "12 €",
-    "main1_name": "Filet de Loup à la Provençale",
-    "main1_desc": "Filet de loup rôti, légumes du soleil, olives de Kalamata et pistou",
-    "main1_price": "32 €",
-    "main2_name": "Couscous Royal",
-    "main2_desc": "Semoule fine, agneau confit, poulet rôti, merguez, légumes et bouillon parfumé",
-    "main2_price": "28 €",
-    "main3_name": "Risotto aux Champignons Sauvages",
-    "main3_desc": "Risotto crémeux aux cèpes et girolles, parmesan vieilli et truffe râpée",
-    "main3_price": "26 €",
-    "dessert1_name": "Tiramisu Pistache-Framboise",
-    "dessert1_desc": "Tiramisu revisité à la pistache de Sicile, framboises fraîches et éclats de meringue",
-    "dessert1_price": "12 €",
-    "dessert2_name": "Baklava aux Noix et Miel",
-    "dessert2_desc": "Pâte filo croustillante, noix caramélisées, miel d'oranger et glace à la fleur d'oranger",
-    "dessert2_price": "10 €",
-    "drink1_name": "Thé à la Menthe",
-    "drink1_desc": "Thé vert premium, menthe fraîche et sucre de canne",
-    "drink1_price": "6 €",
-    "drink2_name": "Limonade Maison",
-    "drink2_desc": "Citron frais, sirop de fleur de sureau et eau pétillante",
-    "drink2_price": "5 €"
+    "title": "Notre Menu",
+    "subtitle": "Un voyage de saveurs",
+    "categories": {
+      "starters": "Entrées",
+      "main": "Plats Principaux",
+      "desserts": "Desserts",
+      "drinks": "Boissons"
+    },
+    "items": {
+      "starters_1_name": "Bruschetta Méditerranéenne",
+      "starters_1_desc": "Pain grillé garni de tomates mûries au soleil, basilic frais et huile d'olive extra vierge",
+      "starters_1_price": "1 200 DZD",
+      "starters_2_name": "Calamars Frits au Citron",
+      "starters_2_desc": "Calamars légèrement panés servis avec une aïoli citronnée et des micro-herbes",
+      "starters_2_price": "1 500 DZD",
+      "starters_3_name": "Salade Niçoise",
+      "starters_3_desc": "Thon frais, œufs durs, olives et haricots verts sur un lit de mesclun avec vinaigrette à l'anchois",
+      "starters_3_price": "1 400 DZD",
+      "main_1_name": "Tajine d'Agneau aux Abricots",
+      "main_1_desc": "Agneau mijoté lentement avec abricots, amandes et épices aromatiques, servi avec couscous moelleux",
+      "main_1_price": "2 800 DZD",
+      "main_2_name": "Bouillabaisse Royale",
+      "main_2_desc": "Soupe de poisson provençale traditionnelle avec crevettes, moules, poisson et safran, servie avec rouille et croûtons",
+      "main_2_price": "3 200 DZD",
+      "main_3_name": "Filet de Bar à la Plancha",
+      "main_3_desc": "Bar saisi à la plancha avec ratatouille, huile de basilic et beurre blanc à la tomate",
+      "main_3_price": "2 900 DZD",
+      "desserts_1_name": "Fondant au Chocolat à la Fleur de Sel",
+      "desserts_1_desc": "Fondant au chocolat riche avec un cœur coulant, saupoudré de fleur de sel et servi avec glace à la vanille",
+      "desserts_1_price": "1 300 DZD",
+      "desserts_2_name": "Crème Brûlée à la Lavande",
+      "desserts_2_desc": "Crème brûlée classique infusée à la lavande provençale, garnie de sucre caramélisé",
+      "desserts_2_price": "1 100 DZD",
+      "drinks_1_name": "Thé à la Menthe",
+      "drinks_1_desc": "Thé à la menthe marocain traditionnel servi avec de délicates pâtisseries",
+      "drinks_1_price": "500 DZD",
+      "drinks_2_name": "Citronnade Fraîche",
+      "drinks_2_desc": "Limonade maison à la menthe fraîche et une touche d'eau de fleur d'oranger",
+      "drinks_2_price": "400 DZD"
+    }
   },
   "reservation": {
     "title": "Réservez Votre Table",
     "subtitle": "Vivez une expérience gastronomique inoubliable",
     "description": "Que ce soit pour un dîner romantique, un repas d'affaires ou une célébration familiale, notre équipe se fera un plaisir de vous accueillir et de vous offrir un moment d'exception.",
     "cta": "Réserver maintenant",
-    "phone": "+213 555 12 34 56",
     "hours": "Du mardi au dimanche, 12h00 - 22h30"
   },
   "gallery": {
@@ -107,7 +101,7 @@
     "subtitle": "Nous sommes à votre écoute",
     "address": "12 Rue des Jardins, Alger Centre, 16000 Alger, Algérie",
     "email": "3iikStudio@proton.me",
-    "messenger": "Message via Messenger",
+    "messenger": "Message via Instagram",
     "facebook": "Suivez-nous sur Facebook",
     "form_name": "Votre nom",
     "form_email": "Votre email",
@@ -115,7 +109,7 @@
     "form_submit": "Envoyer"
   },
   "footer": {
-    "rights": "© 2026 Le Jardin Restaurant. Tous droits réservés.",
-    "tagline": "L'excellence méditerranéenne depuis 1985"
+    "tagline": "Fine Cuisine Méditerranéenne au Cœur d'Alger",
+    "rights": "Tous droits réservés."
   }
 }
